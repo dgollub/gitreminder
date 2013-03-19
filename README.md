@@ -16,7 +16,14 @@ Copyright:    Daniel Kurashige-Gollub, 2013
 
 License:      GPLv3
 
-TODO/IDEAS:
+COMMENT
+-----
+I have no time to finish this little script at the moment, so I just put it 
+up on github.com/dgollub/gitreminder for the public. Maybe somebody else
+finds it useful and is willing to put more time into it. 2013-03-19 Daniel
+
+TODO/IDEAS
+-----
 - add ability to do everything automatically or by manually confirm each step
   (like --quiet or --assume-yes)
 - add ability to ssh/sftp/scp a zipped version of the repository to a remote
