@@ -7,10 +7,13 @@ if they have uncommited files or if they have any branches that are not pushed
 to the remote server yet.
 
 Author:       Daniel Kurashige-Gollub
-              dgollub@web.de
+
 Date:         2013-02-07 (February, 7th, 2013)
+
 Version:      0.0.1
+
 Copyright:    Daniel Kurashige-Gollub, 2013
+
 License:      GPLv3
 
 TODO/IDEAS:
